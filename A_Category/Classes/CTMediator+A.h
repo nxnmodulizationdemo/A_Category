@@ -6,7 +6,6 @@
 //  Copyright © 2019 cocoa_niu. All rights reserved.
 //
 
-#import <CTMediator/CTMediator.h>
 #import <UIKit/UIKit.h>
 
 NS_ASSUME_NONNULL_BEGIN

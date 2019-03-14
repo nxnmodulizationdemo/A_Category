@@ -7,6 +7,7 @@
 //
 
 #import "CTMediator+A.h"
+#import <CTMediator/CTMediator.h>
 
 @implementation CTMediator (A)
 
